@@ -97,7 +97,7 @@ Read `framework.md` for the full philosophy. The short version:
 ## Credits
 
 Developed through actual playthroughs. Characters who shaped this framework:
-- Rosita - Hermit Archivist (16 days, never reached Mama)
+- Rosita - Avid Bookreader, Baker (16 days, never reached Mama)
 - Richard - Evidence Room Clerk (ongoing, escaping Louisville)
 
 ## License
