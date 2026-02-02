@@ -1,0 +1,132 @@
+[Character Name] - Handcuffs
+
+=============================================================================
+WHAT ARE HANDCUFFS?
+=============================================================================
+
+Behavioral constraints with gameplay consequences. Not punishments - texture.
+These emerge from trauma, stress, and the gap between who they were and who
+they're becoming.
+
+Triggered by nightly roll based on violence, cumulative exposure, and
+character-specific weights.
+
+=============================================================================
+ACTIVE HANDCUFFS
+=============================================================================
+
+(Track what's currently affecting the character)
+
+None yet.
+
+=============================================================================
+MECHANICAL HANDCUFFS
+=============================================================================
+
+These have direct gameplay consequences. Customize based on character seed.
+
+INSOMNIA
+- Trigger weight: [1.0 = normal, higher = more likely for this character]
+- Description: Can't sleep. Brain won't stop.
+- Gameplay: Can't sleep until 2-3am. Next day starts late, exhausted.
+- Journal hint: "Laid there for hours. Finally slept at 3am."
+
+AVOIDANCE
+- Trigger weight:
+- Description: Can't go back there. Can't face that place.
+- Gameplay: DM picks location from yesterday. Must take alternate route.
+- Journal hint: "Took the long way. Couldn't look at [location]."
+
+COMPULSION
+- Trigger weight:
+- Description: Didn't check everything. What if something was missed?
+- Gameplay: MUST return to a location already searched.
+- Journal hint: "I need to go back. Maybe I missed something."
+
+NUMBNESS
+- Trigger weight:
+- Description: Can't feel anything. Doesn't notice what's wrong.
+- Gameplay: Won't change bandages. Infection risk.
+- Journal hint: "Should feel something. Don't."
+
+EXHAUSTION
+- Trigger weight:
+- Description: Tired in a way sleep doesn't fix.
+- Gameplay: Can't leave until 10-11am. No sprinting first hour.
+- Journal hint: "Slept but woke up tired. Body remembers."
+
+HYPERVIGILANCE
+- Trigger weight:
+- Description: Can't stop scanning. Every shadow is a threat.
+- Gameplay: Must check all windows/doors. Interrupted sleep.
+- Journal hint: "Checked the windows six times. Still don't feel safe."
+
+FORESHORTENED FUTURE
+- Trigger weight:
+- Description: Can't imagine next week. Only today exists.
+- Gameplay: Resists long-term planning. Won't stockpile.
+- Journal hint: "Why plan? For what?"
+
+STRESS EATING
+- Trigger weight:
+- Description: The only thing that feels like control. Fill the emptiness.
+- Gameplay: Must stay "full to bursting" the entire day. Burns through food supply.
+- Journal hint: "Kept eating. Wasn't hungry. Kept eating anyway."
+
+=============================================================================
+COLOR HANDCUFFS
+=============================================================================
+
+Lighter touch - flavor that guides roleplay.
+
+NIGHTMARES
+- Description: Dreams of faces. Names.
+- Journal hint: "Dreamed of [name]. They asked why."
+
+INTRUSIVE MEMORY
+- Description: A face won't leave.
+- Journal hint: "[Name]. Can't stop seeing them."
+
+DETACHMENT
+- Description: Others feel distant. Behind glass.
+- Journal hint: "Heard a voice on the radio. Turned it off."
+
+DEPERSONALIZATION
+- Description: Watching from outside.
+- Journal hint: Journal switches to third person. "She" instead of "I".
+
+=============================================================================
+CHARACTER-SPECIFIC HANDCUFFS
+=============================================================================
+
+(Add handcuffs unique to this character's seed. Examples:)
+
+[EXAMPLE - ADDICT CHARACTER]
+WITHDRAWAL
+- Description: Hands shake. Can't focus.
+- Gameplay: No two-handed weapons. Must carry something heavy in off-hand.
+- Journal hint: "Need something. Anything."
+
+[EXAMPLE - PACIFIST BACKGROUND]
+BLOOD ON HANDS
+- Description: They weren't supposed to be a killer.
+- Gameplay: After 20+ kill day, can't eat. Nausea until evening.
+- Journal hint: "Couldn't keep breakfast down."
+
+[YOUR CHARACTER'S HANDCUFF]
+- Description:
+- Gameplay:
+- Journal hint:
+
+=============================================================================
+RECOVERY
+=============================================================================
+
+Zero-kill days = recovery opportunity.
+DM may remove one active handcuff if the day was genuinely quiet.
+
+Note moments of peace in journal:
+- Noticed something beautiful
+- Spent time with animals
+- Read something that wasn't about survival
+- Ate a meal slowly, like a human - sitting down with a plate and spoon

@@ -1,0 +1,118 @@
+[Character Name] - [Playthrough Name]
+
+=============================================================================
+CHARACTER SEED
+=============================================================================
+
+Answer these on Day 1 as the character emerges:
+
+WHO WERE YOU BEFORE?
+Occupation:
+Relationships:
+Daily routines:
+
+WHAT DID YOU LEAVE BEHIND?
+Home:
+People:
+Objects:
+
+WHAT'S YOUR ANCHOR?
+(Goal, person, or memory that keeps you moving)
+
+
+WHAT'S YOUR FLAW?
+(Addiction, guilt, denial, rage, fear - something that will cost you)
+
+
+WHAT'S YOUR MADNESS?
+(Compulsion, coping ritual, quirk - see examples below)
+
+Examples:
+- Collecting (spoons, watches, photos, IDs)
+- Stockpiling (pills, lighters, keys)
+- Dependency (sleeping pills, alcohol, needs music to sleep)
+- Destruction (burns certain buildings, smashes TVs)
+- Aversion (won't drive red cars, avoids basements, hates hospitals)
+- Counting (arranges inventory, counts kills, steps)
+- Communication (talks to photos, leaves notes, names weapons)
+- Refusal (won't loot bodies, no guns, no blades)
+- Dietary (vegetarian, pescatarian, religious, no canned food)
+- Farm bond (won't butcher animals they've cared for)
+
+
+=============================================================================
+CHARACTER BUILD
+=============================================================================
+
+Traits (Negative):
+Traits (Positive):
+Occupation:
+
+=============================================================================
+CURRENT STATUS
+=============================================================================
+
+Day:
+Weight:
+Location:
+Kills:
+
+=============================================================================
+SKILLS
+=============================================================================
+
+Combat:
+-
+
+Agility:
+-
+
+Survival:
+-
+
+Passive:
+- Fitness:
+- Strength:
+
+=============================================================================
+CORE RULES
+=============================================================================
+
+(What constraints define this playthrough? Examples below - delete and replace)
+
+1. [EXAMPLE] DAY 60 CUTOFF - No looting after Day 60
+2. [EXAMPLE] NIGHTLY READING - Must read something every night
+3. [EXAMPLE] NO SKILL GRINDING - Can't level a skill without finishing the book
+4. [YOUR RULE]
+5. [YOUR RULE]
+
+=============================================================================
+OBJECTIVES
+=============================================================================
+
+PHASE 1 - [Name] (Days 1-?):
+- [ ]
+- [ ]
+
+PHASE 2 - [Name]:
+- [ ]
+- [ ]
+
+PHASE 3 - [Name]:
+- [ ]
+- [ ]
+
+=============================================================================
+BASES & RESOURCES
+=============================================================================
+
+Primary base:
+Safehouses:
+Vehicles:
+Animals:
+
+=============================================================================
+SESSION LOG
+=============================================================================
+
+Day 1: See journal.

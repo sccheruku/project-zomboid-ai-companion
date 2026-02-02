@@ -1,0 +1,46 @@
+[Character Name] - Journal
+
+=============================================================================
+STATIC INFO
+=============================================================================
+
+Occupation:
+Radio frequencies:
+Always carrying:
+
+=============================================================================
+BACKGROUND
+=============================================================================
+
+(Write 2-3 paragraphs establishing who this person was, what happened, and
+what they're trying to do. This is the "before" that the journal entries
+will contrast against.)
+
+
+
+
+=============================================================================
+JOURNAL ENTRIES
+=============================================================================
+
+--- DAY 1 ---
+Location:
+Weather:
+Kills:
+Slept:
+
+(Write in first person. Not just what happened - how it felt. What you
+noticed. What you're trying not to think about.)
+
+
+
+
+--- DAY 2 ---
+Location:
+Weather:
+Kills:
+Slept:
+
+
+
+
